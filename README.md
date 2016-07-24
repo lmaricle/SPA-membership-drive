@@ -7,41 +7,16 @@ email blasts for SPA 2016 summer membership drive
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Spokane Pharmacy Association</title>
 <style type="text/css">
-.tooltip {
-	display:inline;
-	position:relative;
-}
+
  
-.tooltip:hover:after {
-	background: #333;
-	background: rgba(0,0,0,.8);
-	border-radius: 5px;
-	bottom: 26px;
-	color: #fff;
-	content: "Click to RSVP";
-	left: 20%;
-	padding: 5px 15px;
-	position:absolute;
-	z-index: 98;
-	width: 75px;
-}
-.tooltip:hover:before {
-	border:solid;
-	border-color: #333 transparent;
-	border-width: 6px 6px 0 6px;
-	bottom: 20px;
-	content: "";
-	left: 50%;
-	position:absolute;
-	z-index: 99;
-}
-a {color:#981e32;}
-a:hover, a:active, a:focus {color:#c60c30;}
+a {color:#00008b;}
+a:hover, a:active, a:focus {color:#0000d8;}
+a:visited {color:#008b8b}
 a img { border: none;}
 
  body {	 
  line-height: 1.5;
- font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+ font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
  font-size:12px;
  text-align:left;}
 </style>                                           
@@ -55,11 +30,11 @@ a img { border: none;}
   <td valign="top"><br />
   <div align="center" style="font-size: 9px" >Spokane Pharmacy Association 2016 Membership Drive</div>
       <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tr>
+        <tr width="100%" bgcolor="#00008b">
         <td>*Masthead image*</td>
         </tr>
         <tr>
-        <td valign="top" bgcolor="#ffffff">BODY TEXT</td>
+        <td valign="top" bgcolor="#ffffff" style="border-right:3px solid #2a3033; border-left:3px solid #2a3033; border-top:0px; border-bottom:0px;">BODY TEXT</td>
         </tr>
         <tr>
         <td width="100%" valign="top">
